@@ -16,17 +16,9 @@
 | Test        | Docker image from GitHub | In line with feature branches | Copy of live database inside Docker | Development EC2 instance              |
 | Local       | Local Docker image       | -                             | Copy of live database inside Docker | Docker Desktop                        |
 
-
-
-
-
-
-
-
-
-
-
 ## Promotion process
+
+![Promotion process diagram](./promotion-process.png)
 
 ### Local
 
