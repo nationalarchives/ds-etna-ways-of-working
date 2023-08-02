@@ -87,6 +87,8 @@ When we need to make a fix to production code but there is already changes in th
 1. [TODO] - same process as staging → production
 1. Open a PR to duplicate the changes back into the working branch
 
+[Hotfix process diagram](https://www.mermaidchart.com/app/projects/1236b2e9-bed7-46dd-beb3-98a52fc4c209/diagrams/6bac87a1-ca63-438d-81dc-9128aa2f0baa/version/v0.1/view)
+
 ## Database
 
 ```mermaid
